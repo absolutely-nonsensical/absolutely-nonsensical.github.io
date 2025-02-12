@@ -14,15 +14,9 @@ pagination.pagerSize = 20
     customCSS = ["css/custom.css"]
     copyright = "Author"
     readmore = true
-    authorbox = true
-    show_author = true
     post_meta = ["date", "categories"]
     twitter_cards = true
-
-    [Params.author]  
-        name = "Absolutely Nonsensical"
-        bio = ""
-        avatar = "img/avatar.png"
+    author = "Absolutely Nonsensical"
 
 [Params.style.vars]
   highlightColor = "#e22d30"
