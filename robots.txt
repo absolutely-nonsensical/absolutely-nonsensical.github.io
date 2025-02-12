@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: absolutely-nonsensical.github.iositemap.xml
+Sitemap: https://absolutely-nonsensical.github.io/sitemap.xml
