@@ -8,12 +8,7 @@ enableRobotsTXT = true
 title = "Absolutely Nonsensical"
 
 theme = "PaperMod"
-paginate = 20
- 
-[Author]
-    name = "Absolutely Nonsensical"
-    bio = ""
-    avatar = "img/avatar.png"
+pagination.pagerSize = 20 
 
 [Params]
     customCSS = ["css/custom.css"]
@@ -23,6 +18,11 @@ paginate = 20
     post_meta = ["date", "categories"]
     twitter_cards = true
 
+    [Params.author]  
+        name = "Absolutely Nonsensical"
+        bio = ""
+        avatar = "img/avatar.png"
+
 [Params.style.vars]
   highlightColor = "#e22d30"
 
@@ -31,4 +31,3 @@ paginate = 20
     list = "right"
     single = "right"
     widgets = ["search", "recent", "categories", "taglist", "social"]
-
