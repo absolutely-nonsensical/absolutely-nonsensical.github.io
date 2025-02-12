@@ -9,7 +9,7 @@ title = "Absolutely Nonsensical"
 
 theme = "mainroad"
 paginate = 20
-
+ 
 [Author]
     name = "Author"
     bio = ""
