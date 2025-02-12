@@ -15,6 +15,7 @@ pagination.pagerSize = 20
     copyright = "Author"
     readmore = true
     authorbox = true
+    show_author = true
     post_meta = ["date", "categories"]
     twitter_cards = true
 
