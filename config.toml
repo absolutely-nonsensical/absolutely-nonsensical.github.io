@@ -1,4 +1,4 @@
-baseURL = "absolutely-nonsensical.github.io"
+baseURL = "https://absolutely-nonsensical.github.io/"
 
 languageCode = "zh-CN"
 DefaultContentLanguage = "zh-cn"
@@ -7,11 +7,11 @@ enableRobotsTXT = true
 
 title = "Absolutely Nonsensical"
 
-theme = "mainroad"
+theme = "PaperMod"
 paginate = 20
  
 [Author]
-    name = "Author"
+    name = "Absolutely Nonsensical"
     bio = ""
     avatar = "img/avatar.png"
 
