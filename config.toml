@@ -1,21 +1,18 @@
-# 公開するページのURL
-baseURL = "https://kat0h.github.io/hugo-blog-template"
+baseURL = "absolutely-nonsensical.github.io"
 
-languageCode = "ja"
-DefaultContentLanguage = "ja"
+languageCode = "zh-CN"
+DefaultContentLanguage = "zh-cn"
 HasCJKLanguage = true
 enableRobotsTXT = true
 
-# ブログのタイトル
-title = "hugo-blog-template"
+title = "Absolutely Nonsensical"
 
 theme = "mainroad"
 paginate = 20
 
-# 自己紹介
 [Author]
     name = "Author"
-    bio = "ここに自己紹介を入れることができます"
+    bio = ""
     avatar = "img/avatar.png"
 
 [Params]
@@ -26,14 +23,8 @@ paginate = 20
     post_meta = ["date", "categories"]
     twitter_cards = true
 
-# ページのテーマカラー
 [Params.style.vars]
   highlightColor = "#e22d30"
-
-# SNS等のユーザー名
-[Params.widgets.social]
-  twitter = "uvrub"
-  github = "kato-k"
 
 [Params.sidebar]
     home = "right"
