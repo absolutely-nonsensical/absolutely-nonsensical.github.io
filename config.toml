@@ -17,6 +17,7 @@ pagination.pagerSize = 20
     post_meta = ["date", "categories"]
     twitter_cards = true
     author = "Absolutely Nonsensical"
+    comments = true
 
 [Params.style.vars]
   highlightColor = "#e22d30"
