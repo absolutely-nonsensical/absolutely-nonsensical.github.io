@@ -26,3 +26,7 @@ pagination.pagerSize = 20
     list = "right"
     single = "right"
     widgets = ["search", "recent", "categories", "taglist", "social"]
+
+[services]
+  [services.disqus]
+    shortname = 'absolutely-nonsensical'
