@@ -15,9 +15,9 @@ pagination.pagerSize = 20
     copyright = "Author"
     readmore = true
     post_meta = ["date", "categories"]
-    twitter_cards = true
     author = "Absolutely Nonsensical"
     comments = true
+    ShowPostNavLinks = true
 
 [Params.style.vars]
   highlightColor = "#e22d30"
